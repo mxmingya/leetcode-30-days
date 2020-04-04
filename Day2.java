@@ -1,4 +1,4 @@
-class day-2 {
+class Day2 {
     public boolean isHappy(int n) {
         Set<Integer> set = new HashSet<>();
         if (n == 1) {
