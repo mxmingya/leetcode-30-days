@@ -1,4 +1,4 @@
-class day-3 {
+class Day3 {
     public int maxSubArray(int[] nums) {
         if (nums.length == 0) {
             return 0;
