@@ -1,4 +1,4 @@
-class day-1 {
+class Day1 {
     public int singleNumber(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i : nums) {
