@@ -8,3 +8,4 @@ ay 27: classic 2d DP. <br/>
 
 Season2 :
 Day3: using hashmap to check if characters match and enough. <br/>
+Day4: if we add all the 2's exponential numbers, then we get 1111111111, use 1s to minus input num to get the results. 
