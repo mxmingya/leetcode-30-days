@@ -11,3 +11,4 @@ Day3: using hashmap to check if characters match and enough. <br/>
 Day4: if we add all the 2's exponential numbers, then we get 1111111111, use 1s to minus input num to get the results.  <br/>
 Day6: use (len+1)/2 to handle [5,6,6] cases. <br/>
 Day 7  :  cousins in binary tree, pay  attention to how the cousins are defined to set the check conditions.  <br/>
+Day 8 : use multiplication instead of division to compare slope. SMART! <br/> 
