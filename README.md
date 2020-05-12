@@ -13,3 +13,4 @@ Day6: use (len+1)/2 to handle [5,6,6] cases. <br/>
 Day 7  :  cousins in binary tree, pay  attention to how the cousins are defined to set the check conditions.  <br/>
 Day 8 : use multiplication instead of division to compare slope. SMART! <br/> 
 Day 9 : remember to take into considerations of edge cases. <br/>
+Day 10: dfs, use visited[i][j];
