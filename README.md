@@ -14,3 +14,4 @@ Day 7  :  cousins in binary tree, pay  attention to how the cousins are defined 
 Day 8 : use multiplication instead of division to compare slope. SMART! <br/> 
 Day 9 : remember to take into considerations of edge cases. <br/>
 Day 10: dfs, use visited[i][j];
+Day 11: xor, a number xor itself returns 1. <br>
