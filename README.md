@@ -16,4 +16,5 @@ Day 9 : remember to take into considerations of edge cases. <br/>
 Day 10: dfs, use visited[i][j];
 Day 11: xor, a number xor itself returns 1. <br>
 Day 12: use stack to add numbers by orders. answer copied from discussion <br/>
-Day 13: Implement Trie. 
+Day 13: Implement Trie. <br/>
+Day 15: remember the while loop ends with condition NULL pointer exception is not going to happen in the loop. <br/>
