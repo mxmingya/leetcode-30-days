@@ -18,3 +18,4 @@ Day 11: xor, a number xor itself returns 1. <br>
 Day 12: use stack to add numbers by orders. answer copied from discussion <br/>
 Day 13: Implement Trie. <br/>
 Day 15: remember the while loop ends with condition NULL pointer exception is not going to happen in the loop. <br/>
+Day 16, 17: sliding windows, search substr in a long string. 
